@@ -1,3 +1,3 @@
 # KAKAO CLONE 2023 Update
 
-HTML, CSS, Javascript
+HTML, CSS, Javascript getting better!
